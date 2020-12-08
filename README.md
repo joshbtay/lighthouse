@@ -1,0 +1,2 @@
+# lighthouse
+Adaptive wallpaper generator
